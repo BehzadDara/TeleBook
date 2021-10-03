@@ -1,0 +1,14 @@
+C:\Users\Behzad\Desktop\TeleBook\TeleBook\TeleBook.Application\bin\Debug\netstandard2.1\TeleBook.Application.deps.json
+C:\Users\Behzad\Desktop\TeleBook\TeleBook\TeleBook.Application\bin\Debug\netstandard2.1\TeleBook.Application.dll
+C:\Users\Behzad\Desktop\TeleBook\TeleBook\TeleBook.Application\bin\Debug\netstandard2.1\TeleBook.Application.pdb
+C:\Users\Behzad\Desktop\TeleBook\TeleBook\TeleBook.Application\bin\Debug\netstandard2.1\TeleBook.Domain.dll
+C:\Users\Behzad\Desktop\TeleBook\TeleBook\TeleBook.Application\bin\Debug\netstandard2.1\TeleBook.Infrastructure.dll
+C:\Users\Behzad\Desktop\TeleBook\TeleBook\TeleBook.Application\bin\Debug\netstandard2.1\TeleBook.Infrastructure.pdb
+C:\Users\Behzad\Desktop\TeleBook\TeleBook\TeleBook.Application\bin\Debug\netstandard2.1\TeleBook.Domain.pdb
+C:\Users\Behzad\Desktop\TeleBook\TeleBook\TeleBook.Application\obj\Debug\netstandard2.1\TeleBook.Application.csprojAssemblyReference.cache
+C:\Users\Behzad\Desktop\TeleBook\TeleBook\TeleBook.Application\obj\Debug\netstandard2.1\TeleBook.Application.AssemblyInfoInputs.cache
+C:\Users\Behzad\Desktop\TeleBook\TeleBook\TeleBook.Application\obj\Debug\netstandard2.1\TeleBook.Application.AssemblyInfo.cs
+C:\Users\Behzad\Desktop\TeleBook\TeleBook\TeleBook.Application\obj\Debug\netstandard2.1\TeleBook.Application.csproj.CoreCompileInputs.cache
+C:\Users\Behzad\Desktop\TeleBook\TeleBook\TeleBook.Application\obj\Debug\netstandard2.1\TeleBook.Application.csproj.CopyComplete
+C:\Users\Behzad\Desktop\TeleBook\TeleBook\TeleBook.Application\obj\Debug\netstandard2.1\TeleBook.Application.dll
+C:\Users\Behzad\Desktop\TeleBook\TeleBook\TeleBook.Application\obj\Debug\netstandard2.1\TeleBook.Application.pdb

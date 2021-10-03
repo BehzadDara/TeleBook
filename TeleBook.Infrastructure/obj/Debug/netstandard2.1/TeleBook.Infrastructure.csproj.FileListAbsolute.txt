@@ -1,0 +1,12 @@
+C:\Users\Behzad\Desktop\TeleBook\TeleBook\TeleBook.Infrastructure\bin\Debug\netstandard2.1\TeleBook.Infrastructure.deps.json
+C:\Users\Behzad\Desktop\TeleBook\TeleBook\TeleBook.Infrastructure\bin\Debug\netstandard2.1\TeleBook.Infrastructure.dll
+C:\Users\Behzad\Desktop\TeleBook\TeleBook\TeleBook.Infrastructure\bin\Debug\netstandard2.1\TeleBook.Infrastructure.pdb
+C:\Users\Behzad\Desktop\TeleBook\TeleBook\TeleBook.Infrastructure\bin\Debug\netstandard2.1\TeleBook.Domain.dll
+C:\Users\Behzad\Desktop\TeleBook\TeleBook\TeleBook.Infrastructure\bin\Debug\netstandard2.1\TeleBook.Domain.pdb
+C:\Users\Behzad\Desktop\TeleBook\TeleBook\TeleBook.Infrastructure\obj\Debug\netstandard2.1\TeleBook.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Behzad\Desktop\TeleBook\TeleBook\TeleBook.Infrastructure\obj\Debug\netstandard2.1\TeleBook.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Behzad\Desktop\TeleBook\TeleBook\TeleBook.Infrastructure\obj\Debug\netstandard2.1\TeleBook.Infrastructure.AssemblyInfo.cs
+C:\Users\Behzad\Desktop\TeleBook\TeleBook\TeleBook.Infrastructure\obj\Debug\netstandard2.1\TeleBook.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Behzad\Desktop\TeleBook\TeleBook\TeleBook.Infrastructure\obj\Debug\netstandard2.1\TeleBook.Infrastructure.csproj.CopyComplete
+C:\Users\Behzad\Desktop\TeleBook\TeleBook\TeleBook.Infrastructure\obj\Debug\netstandard2.1\TeleBook.Infrastructure.dll
+C:\Users\Behzad\Desktop\TeleBook\TeleBook\TeleBook.Infrastructure\obj\Debug\netstandard2.1\TeleBook.Infrastructure.pdb

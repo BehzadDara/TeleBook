@@ -1,0 +1,305 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Behzad\\Desktop\\TeleBook\\TeleBook\\TeleBook.Api\\TeleBook.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Behzad\\Desktop\\TeleBook\\TeleBook\\TeleBook.Api\\TeleBook.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Behzad\\Desktop\\TeleBook\\TeleBook\\TeleBook.Api\\TeleBook.Api.csproj",
+        "projectName": "TeleBook.Api",
+        "projectPath": "C:\\Users\\Behzad\\Desktop\\TeleBook\\TeleBook\\TeleBook.Api\\TeleBook.Api.csproj",
+        "packagesPath": "C:\\Users\\Behzad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Behzad\\Desktop\\TeleBook\\TeleBook\\TeleBook.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Behzad\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.sarmadins.ir/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Behzad\\Desktop\\TeleBook\\TeleBook\\TeleBook.Application\\TeleBook.Application.csproj": {
+                "projectPath": "C:\\Users\\Behzad\\Desktop\\TeleBook\\TeleBook\\TeleBook.Application\\TeleBook.Application.csproj"
+              },
+              "C:\\Users\\Behzad\\Desktop\\TeleBook\\TeleBook\\TeleBook.Domain\\TeleBook.Domain.csproj": {
+                "projectPath": "C:\\Users\\Behzad\\Desktop\\TeleBook\\TeleBook\\TeleBook.Domain\\TeleBook.Domain.csproj"
+              },
+              "C:\\Users\\Behzad\\Desktop\\TeleBook\\TeleBook\\TeleBook.Infrastructure\\TeleBook.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Behzad\\Desktop\\TeleBook\\TeleBook\\TeleBook.Infrastructure\\TeleBook.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Behzad\\Desktop\\TeleBook\\TeleBook\\TeleBook.Application\\TeleBook.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Behzad\\Desktop\\TeleBook\\TeleBook\\TeleBook.Application\\TeleBook.Application.csproj",
+        "projectName": "TeleBook.Application",
+        "projectPath": "C:\\Users\\Behzad\\Desktop\\TeleBook\\TeleBook\\TeleBook.Application\\TeleBook.Application.csproj",
+        "packagesPath": "C:\\Users\\Behzad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Behzad\\Desktop\\TeleBook\\TeleBook\\TeleBook.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Behzad\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.sarmadins.ir/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\Behzad\\Desktop\\TeleBook\\TeleBook\\TeleBook.Infrastructure\\TeleBook.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Behzad\\Desktop\\TeleBook\\TeleBook\\TeleBook.Infrastructure\\TeleBook.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Humanizer.Core.fa": {
+              "target": "Package",
+              "version": "[2.8.26, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Behzad\\Desktop\\TeleBook\\TeleBook\\TeleBook.Domain\\TeleBook.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Behzad\\Desktop\\TeleBook\\TeleBook\\TeleBook.Domain\\TeleBook.Domain.csproj",
+        "projectName": "TeleBook.Domain",
+        "projectPath": "C:\\Users\\Behzad\\Desktop\\TeleBook\\TeleBook\\TeleBook.Domain\\TeleBook.Domain.csproj",
+        "packagesPath": "C:\\Users\\Behzad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Behzad\\Desktop\\TeleBook\\TeleBook\\TeleBook.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Behzad\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.sarmadins.ir/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "JetBrains.Annotations": {
+              "target": "Package",
+              "version": "[2021.1.0-eap01, )"
+            },
+            "Stateless": {
+              "target": "Package",
+              "version": "[5.11.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Behzad\\Desktop\\TeleBook\\TeleBook\\TeleBook.Infrastructure\\TeleBook.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Behzad\\Desktop\\TeleBook\\TeleBook\\TeleBook.Infrastructure\\TeleBook.Infrastructure.csproj",
+        "projectName": "TeleBook.Infrastructure",
+        "projectPath": "C:\\Users\\Behzad\\Desktop\\TeleBook\\TeleBook\\TeleBook.Infrastructure\\TeleBook.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Behzad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Behzad\\Desktop\\TeleBook\\TeleBook\\TeleBook.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Behzad\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.sarmadins.ir/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\Behzad\\Desktop\\TeleBook\\TeleBook\\TeleBook.Domain\\TeleBook.Domain.csproj": {
+                "projectPath": "C:\\Users\\Behzad\\Desktop\\TeleBook\\TeleBook\\TeleBook.Domain\\TeleBook.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+C:\Users\Behzad\Desktop\TeleBook\TeleBook\TeleBook.Domain\bin\Debug\netstandard2.1\TeleBook.Domain.deps.json
+C:\Users\Behzad\Desktop\TeleBook\TeleBook\TeleBook.Domain\bin\Debug\netstandard2.1\TeleBook.Domain.dll
+C:\Users\Behzad\Desktop\TeleBook\TeleBook\TeleBook.Domain\bin\Debug\netstandard2.1\TeleBook.Domain.pdb
+C:\Users\Behzad\Desktop\TeleBook\TeleBook\TeleBook.Domain\obj\Debug\netstandard2.1\TeleBook.Domain.csprojAssemblyReference.cache
+C:\Users\Behzad\Desktop\TeleBook\TeleBook\TeleBook.Domain\obj\Debug\netstandard2.1\TeleBook.Domain.AssemblyInfoInputs.cache
+C:\Users\Behzad\Desktop\TeleBook\TeleBook\TeleBook.Domain\obj\Debug\netstandard2.1\TeleBook.Domain.AssemblyInfo.cs
+C:\Users\Behzad\Desktop\TeleBook\TeleBook\TeleBook.Domain\obj\Debug\netstandard2.1\TeleBook.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Behzad\Desktop\TeleBook\TeleBook\TeleBook.Domain\obj\Debug\netstandard2.1\TeleBook.Domain.dll
+C:\Users\Behzad\Desktop\TeleBook\TeleBook\TeleBook.Domain\obj\Debug\netstandard2.1\TeleBook.Domain.pdb
